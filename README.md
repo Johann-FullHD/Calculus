@@ -22,4 +22,5 @@ Dieses Repository enthält einen einfachen Taschenrechner mit einer benutzerfreu
    ```bash
    python calculator.py
 4. **Calculus beenden:**
+   ```bash
    STRG + C
