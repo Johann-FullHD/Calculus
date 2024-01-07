@@ -14,3 +14,18 @@ Dieses Repository enthält einen einfachen Taschenrechner mit einer benutzerfreu
    ```bash
    git clone https://github.com/Johann-FullHD/calculus.git
    cd calculus
+
+1.1 **Virtual Environment erstellen (optional, aber empfohlen):**
+      ```bash
+      python -m venv venv
+      source venv/bin/activate
+
+2. **Abhängigkeiten installieren:**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Calculus starten:**
+   ```bash
+   python calculator.py
+4. **Calculus beenden:**
+   STRG + C
